@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>feedolin</title>
+    </head>
+    <body>
+     
+
+
+
+
+         <outline text="Podcast" title="Podcast">
+            <outline type="rss" text="Bruenigs" title="Bruenigs" xmlUrl="https://www.patreon.com/rss/thebruenigs?auth=jGvR3MMvd3LbtV4CScvjznypRpYHN_E7l" htmlUrl=""/>
+            <outline type="rss" text="Chapo" title="Chapo" xmlUrl="http://speedboatdope.com/rss/" htmlUrl=""/>
+        </outline>
+        
+
+       
+    </body>
+</opml>
